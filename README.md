@@ -14,4 +14,5 @@ If you want, to make your code cleaner, create a unique directory called "includ
 and reference the code as follows:
 
 require get_stylesheet_directory() . '/customizer/customizer.mainmenu.php';
+
 require get_stylesheet_directory() . '/customizer/customizer.footer.php';
